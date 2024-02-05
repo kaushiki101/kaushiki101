@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning React.js|Javascript
 - 💬 Ask me about HTML| CSS| JS| REACT.JS
 - 📫 How to reach me kaushikispace20@gmail.com
-- 📋 Linkedin -(https://www.linkedin.com/in/kaushiki-shukla-1b8076209/)
+- 📋 Linkedin -https://www.linkedin.com/in/kaushiki-shukla-1b8076209/
   
 
 <!---
